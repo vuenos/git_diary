@@ -21,3 +21,4 @@ cd $GitDir
 git add .
 git commit -m "commit $FileNm"
 git push origin main
+cron works

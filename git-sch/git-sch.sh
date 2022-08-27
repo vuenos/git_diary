@@ -8,7 +8,7 @@ Ym=$Y-$M
 Ymd=$Y-$M-$D
 GitRep="git_diary"
  
-HomeDir="/Users/jintae/project/"
+HomeDir="/Users/jintaekim/project/"
 GitDir="$HomeDir/$GitRep"
 FileDir="$HomeDir/$GitRep/$Ym"
 FileNm="$Ymd".md
